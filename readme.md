@@ -13,8 +13,9 @@ Modifications:
 Disclaimer:  
 This repository is not affiliated with or endorsed by Critical Role or Darrington Press.  
   
-© 2025 Critical Role, LLC.  
-This work contains Public Game Content from the Daggerheart SRD 1.0, created by Darrington Press.  
+Copyright Notice: This product includes materials from the [PUBLIC GAME CONTENT] © Critical
+Role, LLC. All rights reserved.
+This work contains Public Game Content from the Daggerheart System Reference Document 1.0, created by Darrington Press, a division of Critical Role, LLC.
 The original content can be found at: https://www.daggerheart.com/srd/  
 This content is licensed under the Darrington Press Community Gaming License (DPCGL), available at: https://darringtonpress.com/license/
 This version includes modifications by Kaelygon, consisting of conversion to HTML and custom CSS for dark mode and visual fixes.
