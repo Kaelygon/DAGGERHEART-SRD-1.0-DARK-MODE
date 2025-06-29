@@ -1,4 +1,4 @@
-This repository contains an HTML conversion of the [DH-SRD-1.0-June-26-2025.pdf](https://www.daggerheart.com/wp-content/uploads/2025/06/DH-SRD-1.0-June-26-2025.pdf) with custom CSS applied for dark mode and other tweaks.  
+This repository contains an HTML conversion of the [DH-SRD-1.0-June-26-2025.pdf](https://raw.githack.com/Kaelygon/DAGGERHEART-SRD-1.0-DARK-MODE/main/DH-SRD.html) with custom CSS applied for dark mode and other tweaks.  
   
 The content is licensed under the Darrington Press Community Gaming License (DPCGL).  
 See LICENSE.txt for full license terms.  
