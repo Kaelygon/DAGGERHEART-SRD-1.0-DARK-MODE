@@ -1,3 +1,5 @@
+# DAGGERHEART SRD 1.0 HTML Darkmode
+
 This repository contains an HTML conversion of the [DH-SRD-1.0-June-26-2025.pdf](https://raw.githack.com/Kaelygon/DAGGERHEART-SRD-1.0-DARK-MODE/main/DH-SRD.html) with custom CSS applied for dark mode and other tweaks.  
   
 The content is licensed under the Darrington Press Community Gaming License (DPCGL).  
@@ -7,10 +9,10 @@ See LICENSE.txt for full license terms.
   
 ### Modifications:  
 - Converted to HTML using [webtopdf](https://webtopdf.com/)  
-- The script "injectHTMLDiv.sh" adds .container_center_page and links css/dark_mode.css to DH-SRD.html  
-  - Set background color to \#282830 (Muted Dark Blue)  
-  - Set font color to \#d4d4d4 (Light gray)  
-  - Set SVG images to multiplicative (Blend with blue background)  
+- The script "injectHTML.sh" links css/dark_mode.css to DH-SRD.html  
+  - Set background color to Dark Gray Muted Blue  
+  - Set font color to Light gray  
+  - Mixed SVG image colors in CSS 
   - Shifted container to middle of the screen  
   
 ### Why?  
@@ -25,6 +27,11 @@ Alternatively [download](https://github.com/Kaelygon/DAGGERHEART-SRD-1.0-DARK-MO
 This repository is not affiliated with or endorsed by Critical Role or Darrington Press.  
 If you want to suggest ideas or corrections, you can find their socials on their [website](https://www.daggerheart.com/srd/).  
 **Don't bother the Daggerheart team**, if you have issues with this HTML implementation. Create an issue and I'll see if I can do something about it.  
+My goal is to keep the text original with only visual changes, but the conversion may not be perfect.  
+  
+### Known issues:  
+- No jump links in CONTENTS: webtopdf.com issue  
+- Attempting to copy a text column includes the next column: webtopdf.com issue  
   
   
 Copyright Notice: This product includes materials from the [PUBLIC GAME CONTENT] © Critical  

@@ -3,25 +3,19 @@
 /*override html color*/
 html, body {
     background-color: #282830 !important;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 0;
 }
 
 /* STL_ keyword means text */
 [class^="stl_"], [class*=" stl_"] {
-    color: #d4d4d4 !important;
+    color: #cccccc !important;
     background-color: transparent !important;
 }
 
 /*mkae svg to multiplicative, mix with bg*/
 object[type="image/svg+xml"], embed[type="image/svg+xml"] {
-    mix-blend-mode: multiply !important;
-    filter: brightness(1.0) contrast(0.95) !important;
+    filter: invert(1) brightness(0.6) contrast(1.0)  !important;
+    mix-blend-mode: difference !important;
 }
-
-/*center that thing*/
-.container_center_page {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 0 1em;
-}
-
-
